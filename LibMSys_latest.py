@@ -266,7 +266,7 @@ if __name__ == "__main__":
     print('Welcome to the Library:')
 
     lib=Library([
-        ['godfather','mario','fiction','1969','1'], 
+        ['godfather','mario','fiction','1969','lib c block 4','1'], 
         ['the lost world','arthur conan doyle', 'adventure', '1995', 'lib a block 2'], 
         ['half girlfriend','chetan bhagat','romance','2014','lib a block 1','2'], 
         ['sherlock holmes','arthur conan doyle','mystery','1892','lib e block 1' ], 
