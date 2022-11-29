@@ -258,11 +258,12 @@ if __name__ == "__main__":
     print('Welcome to the Library:')
 
     lib=Library([
-        ['father of god','.','.','.','.'], 
-        ['the lost world','Canon Doyle', 'adventure', '29 Aug 1995', 'Lib-A 2,30'], 
-        ['half girlfriend','.','.','.','.','2'], 
-        ['sherlock holmes','canon doyle','mystery','.','.' ], 
-        ['ignited minds', 'APJ Abdul Kalam', 'motivation', '11 March 2012', 'Lib-D 4,13', '3'],
+        ['godfather','mario','fiction','1969','1'], 
+        ['the lost world','arthur conan doyle', 'adventure', '1995', 'lib a block 2'], 
+        ['half girlfriend','chetan bhagat','romance','2014','lib a block 1','2'], 
+        ['sherlock holmes','arthur conan doyle','mystery','1892','lib e block 1' ], 
+        ['ignited minds', 'apj abdul kalam', 'motivation', '2012', 'lib d block 4', '3'],
+        ['verity', 'coolen', 'mystery', '2020' , 'lib c block 3', '5'],
         ['a','.','.','.','.'],
         ['b','.','.','.','.'],
         ['c','.','.','.','.'],
